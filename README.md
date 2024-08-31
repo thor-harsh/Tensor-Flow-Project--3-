@@ -10,8 +10,6 @@
 This dataset consists of 101 food categories, with 101'000 images. For each class, 250 manually reviewed test images are provided as well as 750 training images. On purpose, the training images were not cleaned, and thus still contain some amount of noise. This comes mostly in the form of intense colors and sometimes wrong labels. All images were rescaled to have a maximum side length of 512 pixels.
 But I have cut it down to 2 classes pizza and steak for project purpose.<br></br>
 
-
-
 **Before jumping to the code lets understand what is TensorFlow and What do you mean by classification problem and What is CNN?**...<br></br>
 
 **What is a TensorFlow?** <br></br>
