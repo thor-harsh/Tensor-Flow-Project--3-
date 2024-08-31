@@ -4,14 +4,13 @@
   
 **In this project we'll be solving the classification problem of very famous Food Vision 101 dataset using CNN.**
 
-**Let's looks into dataset and categories of it:** <br></br>
+**Let's looks into dataset:** <br></br>
 
 **About Dataset**: <br></br>
 This dataset consists of 101 food categories, with 101'000 images. For each class, 250 manually reviewed test images are provided as well as 750 training images. On purpose, the training images were not cleaned, and thus still contain some amount of noise. This comes mostly in the form of intense colors and sometimes wrong labels. All images were rescaled to have a maximum side length of 512 pixels.
 But I have cut it down to 2 classes pizza and steak for project purpose.<br></br>
 
-**Please go through the following link to know about the dataset** <br>
-https://www.tensorflow.org/datasets/catalog/food101
+
 
 **Before jumping to the code lets understand what is TensorFlow and What do you mean by classification problem and What is CNN?**...<br></br>
 
@@ -28,7 +27,7 @@ Classification is a supervised machine learning process of categorizing a given 
 A convolutional neural network (CNN) in TensorFlow is a type of artificial neural network that uses deep learning to process and recognize images. CNNs are a key technique in computer vision and are used in many applications, including face recognition and driverless vehicles.<br></br>
 
 
-**Important Note: Before Jumping to the code go through the Fashion Mnist Dataset by clicking on this link (https://www.tensorflow.org/datasets/catalog/fashion_mnist) to learn more.**
+**Important Note: Before Jumping to the code go through the Food Vision 101 dataset by clicking on this link (https://www.tensorflow.org/datasets/catalog/food101) to learn more.**
 
 </table>
 
