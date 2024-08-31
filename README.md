@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be solving the classification problem of very famous Food Vision 101 dataset using CNN.**
+**In this project we'll be solving the Classification Problem of very famous Food Vision 101 dataset using CNN.**
 
 **Let's looks into dataset:** <br></br>
 
